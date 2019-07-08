@@ -1,3 +1,5 @@
+Status: Broken  
+
 A GAN model that takes several factors as inputs and generates a youtube thumbnail
 
 To Use:
